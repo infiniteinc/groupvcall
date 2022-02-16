@@ -4,19 +4,22 @@
       "id":1,
 	  "room_name":"First",
 	  "room_id":"125656",
-	  "room_img_url":"xcc"
+	  "room_img_url":"xcc",
+	     "room_channel":"hey"
    },
     {
       "id":2,
 	  "room_name":"Two",
 	  "room_id":"sdsdf",
-	  "room_img_url":"xcc"
+	  "room_img_url":"xcc",
+	    "room_channel":"hey2"
    },
    {
       "id":3,
 	  "room_name":"Third",
 	  "room_id":"12dfd5656",
-	  "room_img_url":"xcc"
+	  "room_img_url":"xcc",
+	   "room_channel":"hey3"
    }
   
    
